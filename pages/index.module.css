@@ -1,0 +1,15 @@
+.jyanken {
+  padding: 10px;
+}
+
+.jyanken button {
+  margin: 0 10px;
+}
+
+.jyanken table {
+  margin-top: 20px;
+}
+.jyanken th {
+  font-weight: 400;
+  text-align: left;
+}
