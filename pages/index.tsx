@@ -81,7 +81,7 @@ export default function Home() {
               <Typography>対戦結果</Typography>
             </AccordionSummary>
             <AccordionDetails>
-            <ScoreList scores={scores}/>
+              <ScoreList scores={scores}/>
             </AccordionDetails>
           </Accordion>
           <Accordion expanded={expanded === 'panel2'} onChange={handleChange('panel2')}>
